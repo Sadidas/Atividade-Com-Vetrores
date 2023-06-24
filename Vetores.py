@@ -19,7 +19,7 @@ def tela_incial(primeira: bool):
         print('       |/                Bem-Vindo a                 \|')
         print('       ||              Tarefa de Vetores             ||')
         print('       ||              Para o Professor              ||')
-        print('       |\                <3 Andery <3                /|')
+        print('       |\                   Andery                   /|')
         print('       <#============================================#>')
         primeira = False
     print(f'\nEscolhas:')
